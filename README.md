@@ -243,3 +243,14 @@ Success! 'Flag Captured - [Death Star Management System] Remote access granted. 
 Success! 'Flag Captured - [Death Star Management System] Remote access granted. Now initiating data transfer. Archive name: deathstar-vuln1977-644768706379427063794275623351676447686c4945526c5958526f49464e305958493d
 Success! 'Flag Captured - [Death Star Management System] Remote access granted. Now initiating data transfer. Archive name: deathstar-vuln1977-644768706379427063794275623351676447686c4945526c5958526f49464e305958493d
 ```
+
+# Tokens
+
+curl -LO https://isogo.to/[token]
+
+<img src="Shoni-65425046.png" width="100" height="100"></img>
+<img src="eCHO-33-32-37.png" width="100" height="100"></img>
+<img src="deathstar-vuln1977-644768706379427063794275623351676447686c4945526c5958526f49464e305958493d.png" width="100" height="100"></img>
+![Stage1](Shoni-65425046.png)
+![Stage2](eCHO-33-32-37.png)
+![Stage3](deathstar-vuln1977-644768706379427063794275623351676447686c4945526c5958526f49464e305958493d.png)
